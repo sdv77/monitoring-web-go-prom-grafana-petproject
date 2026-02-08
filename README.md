@@ -7,6 +7,7 @@
 ```
 docker compose up -d --build
 ```
+> Stop app with `docker compose down`
 3) Open Grafana `http://localhost:3000`
 > admin/admin for auth by default
 
